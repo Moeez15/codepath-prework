@@ -15,9 +15,10 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+<a href="https://www.loom.com/share/1332a7286fac4f669a357059ba86e10b">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/1332a7286fac4f669a357059ba86e10b-976c165368123b6b-full-play.gif">
+</a>
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
 
@@ -41,8 +42,6 @@ dorm or library). I’d also like to include reminders for upcoming exams or ass
 collaborative and less stressful.
 
 ## Notes
-
-Describe any challenges encountered while building the app.
 
 One of the main challenges I faced while building the app was that it was my first time using Swift and Xcode. I had to learn the basics of the Swift 
 programming language, how to design user interfaces using Interface Builder, and how to connect UI elements to code using IBActions.
